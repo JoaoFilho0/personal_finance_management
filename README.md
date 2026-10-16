@@ -3,7 +3,7 @@
 Aplicativo Flutter para acompanhar entradas, despesas, extrato e relatórios
 financeiros.
 
-## Executar
+## Como executar
 
 Com um emulador Android iniciado ou um aparelho conectado:
 
